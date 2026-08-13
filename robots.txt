@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brand.fixandgo.pro/sitemap.xml
